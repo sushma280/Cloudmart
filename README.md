@@ -8,7 +8,7 @@ To regain its market position, CloudMart’s CTO has initiated a digital transfo
 
 As part of this transformation, we are participating in a 5-day hands-on challenge to deploy CloudMart’s IT infrastructure using modern cloud and DevOps practices. 
 
-![Screenshot 2025-02-25 120721](https://github.com/user-attachments/assets/89070bd3-5617-4377-9591-7ece3b162093)
+![Screenshot 2025-02-25 120721](https://github.com/user-attachments/assets/e77bba2c-a6d1-44c6-a262-87a1b7f9cb0e)
 
 ![_- visual selection (2)](https://github.com/user-attachments/assets/03221002-30aa-4c18-9005-bf1a02a94bdc)
 
@@ -32,9 +32,7 @@ Tools & Technologies: Terraform, AWS CLI, Claude AI
 6. Created and Applied Terraform Configuration
 7. Created DynamoDB Tables for CloudMart
 
-![Screenshot 2025-02-26 085625](https://github.com/user-attachments/assets/2bdc78ee-def5-495f-a036-398f6edef58c)
-![image](https://github.com/user-attachments/assets/f739d639-9b96-4df7-9ffe-e9b272523e2f)
-
+![Screenshot 2025-02-26 145233](https://github.com/user-attachments/assets/ec6c8e7e-ed83-4f31-9483-d73a7af86f0c)
 
 
 Set up Terraform, launched an EC2 instance, installed Terraform, and created AWS resources (S3, DynamoDB). 
@@ -111,8 +109,6 @@ set up a Kubernetes cluster using AWS EKS and deployed the CloudMart application
 
 
 Challenges : ⚠️ Faced issues with permissions while accessing EKS, resolved by configuring eksctl
-
-![image](https://github.com/user-attachments/assets/a604f106-6ef0-48e1-9716-6e73e75ad249)
 
 ![Screenshot 2025-03-18 194223](https://github.com/user-attachments/assets/d65adc27-ed24-4fef-afd9-29ed56fc01e8)
 
