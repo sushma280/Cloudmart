@@ -208,51 +208,51 @@ Challenges : ⚠️ Faced issues with permissions while accessing EKS, resolved 
 
 1️. Download & Update Frontend and Backend Code
         
-     + Backed up the existing application files.
+ + Backed up the existing application files.
         
-     + Cleaned up outdated code while preserving essential configuration files.
+ + Cleaned up outdated code while preserving essential configuration files.
         
-     + Downloaded and integrated the latest source code for the backend and frontend.
+ + Downloaded and integrated the latest source code for the backend and frontend.
 
 2️. Google Cloud BigQuery Setup
 
-     + Created a Google Cloud project and enabled BigQuery API.
+ + Created a Google Cloud project and enabled BigQuery API.
 
-     + Configured a BigQuery dataset and table for order data storage.
+ + Configured a BigQuery dataset and table for order data storage.
 
-     + Set up a service account and authentication for secure API access.
+ + Set up a service account and authentication for secure API access.
 
-     + Developed a Lambda function to stream order data from AWS DynamoDB to BigQuery.
+ + Developed a Lambda function to stream order data from AWS DynamoDB to BigQuery.
 
 3️. AWS Terraform Deployment
 
-     + Defined infrastructure as code using Terraform.
+ + Defined infrastructure as code using Terraform.
 
-     + Created AWS DynamoDB tables for product, order, and ticket management.
+ + Created AWS DynamoDB tables for product, order, and ticket management.
 
-     + Configured AWS Lambda functions for processing and AI-driven functionalities.
+ + Configured AWS Lambda functions for processing and AI-driven functionalities.
 
-     + Established IAM roles and permissions for secure access.
+ + Established IAM roles and permissions for secure access.
 
-     + Automated deployments with Terraform.
+ + Automated deployments with Terraform.
 
 4️. Azure Text Analytics Integration
    
-     + Set up Azure Text Analytics for sentiment analysis on customer feedback.
+ + Set up Azure Text Analytics for sentiment analysis on customer feedback.
 
-     + Obtained API keys and endpoint details.
+ + Obtained API keys and endpoint details.
 
-     + Integrated sentiment analysis into the backend for customer insights.
+ + Integrated sentiment analysis into the backend for customer insights.
 
 5️. Backend Deployment on AWS EKS
 
-     + Updated Kubernetes deployment configurations for backend services.
+ + Updated Kubernetes deployment configurations for backend services.
 
-     + Configured environment variables for AWS Bedrock, OpenAI, and Azure services.
+ + Configured environment variables for AWS Bedrock, OpenAI, and Azure services.
 
-     + Built and pushed the latest backend image to AWS Elastic Container Registry (ECR).
+ + Built and pushed the latest backend image to AWS Elastic Container Registry (ECR).
 
-     + Applied the updated Kubernetes deployment.
+ + Applied the updated Kubernetes deployment.
 
 
 
