@@ -167,13 +167,13 @@ Challenges : ⚠️ Faced issues with permissions while accessing EKS, resolved 
 
 1. Creating Resources with Terraform
    
-       + Created a new IAM role and policy to allow the Lambda function to interact with DynamoDB and CloudWatch Logs. This is a prerequisite for securely running the 
+   + Created a new IAM role and policy to allow the Lambda function to interact with DynamoDB and CloudWatch Logs. This is a prerequisite for securely running the 
          Lambda function.
    
-       + Deployed a Lambda function (list_products) that lists available products from the CloudMart API. The Lambda function is now integrated with DynamoDB for product 
+   + Deployed a Lambda function (list_products) that lists available products from the CloudMart API. The Lambda function is now integrated with DynamoDB for product 
          data access.
 
-       + Configured the necessary Lambda permissions to allow Amazon Bedrock to invoke the Lambda function for product recommendations.
+   + Configured the necessary Lambda permissions to allow Amazon Bedrock to invoke the Lambda function for product recommendations.
 
 2. Configuring Amazon Bedrock Agent for Product Recommendations
 
