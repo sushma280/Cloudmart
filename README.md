@@ -169,7 +169,8 @@ Challenges : ⚠️ Faced issues with permissions while accessing EKS, resolved 
        + Created a new IAM role and policy to allow the Lambda function to interact with DynamoDB and CloudWatch Logs. This is a prerequisite for securely running the 
          Lambda function.
    
-       + Deployed a Lambda function (list_products) that lists available products from the CloudMart API. The Lambda function is now integrated with DynamoDB for product data access.
+       + Deployed a Lambda function (list_products) that lists available products from the CloudMart API. The Lambda function is now integrated with DynamoDB for product 
+         data access.
 
        + Configured the necessary Lambda permissions to allow Amazon Bedrock to invoke the Lambda function for product recommendations.
 
