@@ -151,7 +151,7 @@ Challenges : ⚠️ Faced issues with permissions while accessing EKS, resolved 
 
 5. Tested the CI/CD Pipeline with a Code Change
    
-    + Modified MainPage/index.jsx (line 93) to update UI text.
+    + Modified MainPage/index.jsx to update UI text.
 
     + Committed the changes and pushed to GitHub, triggering an automatic pipeline execution.
 
